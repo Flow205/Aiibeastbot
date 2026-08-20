@@ -1,6 +1,0 @@
-name = "aibeastbot"
-main = "src/index.js"
-compatibility_date = "2024-09-23"
-
-[vars]
-# We will add the bot token later as a secret (safer)
